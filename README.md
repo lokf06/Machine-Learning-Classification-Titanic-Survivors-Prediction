@@ -1,4 +1,3 @@
 # Machine-Learning-Classification-Titanic-Survivors-Prediction
 In this Python coding exercise, using titanic dataset from Kaggle.com to predict survivors and in particular to predict which type of passengers were likely to be survived. 
-Machine Leaning techniques used: EDA, model selection, feature engineering, hyperparameter tuning (GridSearchCV), model evaluation and score(confusion matrix, classification repport, ROC curve, AUC score).
-
+Machine Leaning techniques used: EDA, model selection(logistic regression, randomforest, knn, decisiontree), feature engineering, hyperparameter tuning (GridSearchCV), model evaluation and score(confusion matrix, classification repport, ROC curve, AUC score).
